@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bingo!
 
 <!--
 **yy-zhou/yy-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- You can call me Mirage.
+- Locate in Seattle.
+- Working as a software engineer.
+- Love this job, love the feeling when idea really comes into code and up on running.
+- Primarily language is Java, also have some experience in Python and JavaScript.
+- I love soccer and basketball, Hala Madrid & Trust the process!
