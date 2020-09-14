@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - You can call me Mirage.
 - Living in Seattle.
-- Working as a software engineer, contributing to a large data ingest & onboarding system.
-- Love this job, love the feeling when idea really comes into code and up on running.
+- Software engineer, contributing to a large data ingest & onboarding system.
+- Love the feeling when idea really comes into code and up on running.
 - Primarily language is Java, also have some experience in Python and JavaScript.
 - Love soccer and basketball, **Hala Madrid** & **Trust the process**!
