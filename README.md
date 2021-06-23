@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - You can call me Mirage.
 - Software engineer, contributing to a large data ingest & onboarding system.
 - Love the feeling when idea really comes into code and up on running.
-- Love soccer and basketball, **Hala Madrid** & **Trust the process**!
+- **Hala Madrid!**
